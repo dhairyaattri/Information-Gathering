@@ -1,6 +1,4 @@
-# pythonPentesting
-
-## Information Gathering 
+# Information Gathering 
 
 Usage:
 ```console
